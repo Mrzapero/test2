@@ -46,9 +46,7 @@ except:
 	sys.exit()
 
 
-print('\n==== Welcome To Facebook BruteForce ====\n')
-print("\nXXX Coded By; Mr_Z4P3R0 XXX\n')
-
+print('\n==== Welcome To Facebook BruteForce ====\n
 file=open('passwords.txt','r')
 
 
